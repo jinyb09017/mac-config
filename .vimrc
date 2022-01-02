@@ -56,3 +56,5 @@ set history=1000                "Vim 需要记住多少次历史操作。"
 
 "set listchars=tab:»■,trail:■
 "set list                        "如果行尾有多余的空格（包括 Tab 键），该配置将让这些空格显示成可见的小方块。"
+
+"七、other"
